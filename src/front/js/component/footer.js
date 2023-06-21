@@ -1,3 +1,5 @@
+// .component/footer.js
+
 import React, { Component } from "react";
 
 export const Footer = () => (
